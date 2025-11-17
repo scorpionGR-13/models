@@ -19,7 +19,7 @@ Contenido
 
 Introducción
 AULA 3D - SEGUNDO AÑO es un proyecto educativo que muestra la integración de React con Three.js mediante `@react-three/fiber` y `@react-three/drei`. El objetivo es renderizar un aula en 3D interactiva, permitiendo explorar la escena con controles de mouse y sensores móviles.
-
+<img width="1864" height="900" alt="Captura de pantalla 2025-11-11 004341" src="WhatsApp Image 2025-11-17 at 12.54.52.jpeg" />
 Características Clave
 - Renderizado 3D de alta calidad con Three.js y `@react-three/fiber`
 - Controles intuitivos para navegación y exploración
